@@ -25,6 +25,8 @@ A beginner-friendly Python implementation of the classic **Snake Gun Water** gam
 
 ---
 
+**It has got to main files one shows the main logic behind the code while the other shows the shortcut of the main logic code!**
+
 ## 📦 Installation & Run
 
 ### 1. Clone the repository
